@@ -21,3 +21,5 @@ This shows that model has trained good, as training and validation loss / accura
 <img src="icr_train.png" alt="alt text" width="500" >
 
 ## Part 2 - Character class recognition
+
+Inprocess
