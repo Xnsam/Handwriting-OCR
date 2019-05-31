@@ -10,7 +10,7 @@ Model
 -----------------------------
 CNN model
 
-<img src="model.png" alt="alt text" width="500" >
+<img src="model.png" alt="alt text" width="200" >
 
 Training Plot
 -------------------------------
